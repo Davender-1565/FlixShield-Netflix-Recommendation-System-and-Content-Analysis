@@ -10,3 +10,4 @@ nltk==3.9.1
 wordcloud==1.9.3
 yellowbrick==1.5
 jupyter_dash==0.4.2
+gunicorn
