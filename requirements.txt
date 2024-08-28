@@ -3,3 +3,14 @@ pandas
 sklearn
 dash
 pickle
+pylab
+spacy
+en_core_web_sm
+matplotlib
+plotly
+seaborn
+nltk
+wordcloud
+yellowbrick
+mpl_toolkits
+jupyter_dash
