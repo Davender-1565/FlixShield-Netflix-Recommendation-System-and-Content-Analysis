@@ -2,7 +2,6 @@ flask
 pandas
 scikit-learn==1.4.1.post1
 dash
-pickle
 pylab
 spacy
 en_core_web_sm
