@@ -438,4 +438,4 @@ zict==3.0.0
 zipp==3.19.2
 zope.interface @ file:///C:/ci_311/zope.interface_1676439868776/work
 zstandard @ file:///C:/b/abs_e46tf0_91g/croot/zstandard_1714678303615/work
-gunicorn
+gunicorn==23.0.0
