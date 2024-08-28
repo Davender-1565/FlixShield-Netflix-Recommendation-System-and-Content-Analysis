@@ -1,6 +1,6 @@
 flask
 pandas
-sklearn
+scikit-learn
 dash
 pickle
 pylab
