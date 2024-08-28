@@ -8,7 +8,7 @@ from dash.dependencies import Input, Output
 import pickle
 
 # Load DataFrame and models
-df_content = pd.read_csv('C:\\Users\\daven\\OneDrive\\Desktop\\project\\df_content.csv')
+df_content = pd.read_csv('df_content.csv')
 
 with open('tfidf_vectorizer.pkl', 'rb') as f:
     tfidf = pickle.load(f)
