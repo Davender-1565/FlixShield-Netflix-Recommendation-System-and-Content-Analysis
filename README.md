@@ -1,5 +1,4 @@
-<br>
-🎬 Netflix Dataset Analysis & Recommendation System**
+# 🎬 FlixShield: Netflix Recommendation System and Content Analysis
 
 Welcome to the Netflix Dataset Analysis and Recommendation System project! This repository contains an in-depth analysis of the Netflix dataset of movies and TV shows up to 2019, sourced from the third-party search engine, Flixable. Our goal is to enhance user experience through a content-based recommendation system, ultimately reducing subscriber churn for Netflix, which currently serves over 220 million subscribers.
 
